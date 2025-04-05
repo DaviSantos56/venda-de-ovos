@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif; /* Fonte do texto */
+    background-color: #f4f4f4; /* Cor de fundo */
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove preenchimento padrão */
+}
+
+header {
+    background:  rgb(208, 223, 1); /* Cor de fundo do cabeçalho */
+    padding: 20px; /* Preenchimento interno */
+    text-align: center; /* Centraliza o texto */
+}
+
+h1 {
+    margin: 0; /* Remove margens do título */
+}
+
+main {
+    padding: 20px; /* Preenchimento do conteúdo principal */
+}
+
+.produto {
+    background: rgb(49, 49, 49); /* Cor de fundo dos produtos */
+    margin: 10px 0; /* Margens entre produtos */
+    padding: 15px; /* Preenchimento interno */
+    border: 1px solid #ccc; /* Borda dos produtos */
+    border-radius: 5px; /* Bordas arredondadas */
+}
